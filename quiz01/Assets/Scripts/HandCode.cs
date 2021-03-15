@@ -40,6 +40,7 @@ public class HandCode : MonoBehaviour{
     public void Reset()
     {
         SecondsHands.gameObject.transform.rotation = Quaternion.Euler(new Vector3(0, 0, 0));
+        seconds = 0;
         //SecondHand.gameObject.transform.SetPositionAndRotation(new Vector3(0, 0, 0), Quaternion.Euler(new Vector3(0, 0, 0)));
         print("btn was pressed!");
     }
