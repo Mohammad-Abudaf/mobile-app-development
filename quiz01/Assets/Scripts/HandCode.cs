@@ -22,11 +22,9 @@ public class HandCode : MonoBehaviour{
         if (Enable) {
             // ReSharper disable once HeapView.BoxingAllocation
             seconds += Time.deltaTime;
-            //SecondsHands.gameObject.transform.Rotate(0, 0,    (-6 + (int)seconds));
             print($"the seconds now is {seconds}");
             SecondsHands.gameObject.transform.rotation = Quaternion.Euler(new Vector3(0, 0, -6 * (float)Math.Truncate(seconds)));
         }
-
     }
     public void Go()
     {
@@ -56,4 +54,3 @@ public class HandCode : MonoBehaviour{
     }
 
 }
-
