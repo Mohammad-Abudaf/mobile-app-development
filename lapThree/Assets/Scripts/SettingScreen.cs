@@ -10,8 +10,13 @@ namespace SettingScreen01{
         // Start is called before the first frame update
         public Sprite[] allImgs;
         public Image myImg;
-
+        public Text PersentageLable;
         private static int _index;
+
+        public void BackgroundUpdate(float sliderValue){
+            // ReSharper disable once HeapView.BoxingAllocation
+            PersentageLable.text = $"{Mathf.RoundToInt(f: sliderValue)}%";
+        }
 
         private void Start(){
             _index = 1;
