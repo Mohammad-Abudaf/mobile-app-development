@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b158f99e-67e0-488f-a8c2-b0a1b399cf42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.clock/.idea/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Assets/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Assets/Editor/com.unity.mobile.notifications.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/Packages-Update.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Logs/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/NotificationsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/UserSettings/AndroidLogcatSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap03/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/.idea/.idea.Lap04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/.idea/.idea.Lap04/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/.idea/.idea.Lap04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/.idea/.idea.Lap04/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/.idea/.idea.Lap04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/Assets/Script.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/Assets/Script.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap04/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.Assembly-CSharp.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.Assembly-CSharp.dir/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.Assembly-CSharp.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.Assembly-CSharp.dir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.Assembly-CSharp.dir/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.Assembly-CSharp.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.digitalAnalogClock/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.digitalAnalogClock/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.digitalAnalogClock/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.digitalAnalogClock/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/.idea/.idea.digitalAnalogClock/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Imgs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Imgs/161200-blank-clock-face-4x4-dry-erase-board (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Imgs/161200-blank-clock-face-4x4-dry-erase-board (1).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Imgs/icon_sw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Imgs/icon_sw.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Imgs/title.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Imgs/title.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Scenes/mainScreen.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/Scenes/mainScreen.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7 (italic).ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7 (italic).ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7 (mono italic).ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7 (mono italic).ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7 (mono).ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7 (mono).ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/digital-7.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/fonts/readme.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/scripts/MainCode.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Assets/scripts/MainCode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalAnalogClock/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/.idea/.idea.hideShowImgForSS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/.idea/.idea.hideShowImgForSS/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/.idea/.idea.hideShowImgForSS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/.idea/.idea.hideShowImgForSS/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/Editor/com.unity.mobile.notifications.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/img.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/img/pexels-roberto-nickson-2486168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/img/pexels-roberto-nickson-2486168.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/scripts/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Assets/scripts/Main.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/NotificationsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hideShowImgForSS/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.laThree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.laThree/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.laThree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.laThree/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.lapThree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.lapThree/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.lapThree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.lapThree/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/.idea/.idea.lapThree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Editor/com.unity.mobile.notifications.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/161200-blank-clock-face-4x4-dry-erase-board__1_-removebg-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/161200-blank-clock-face-4x4-dry-erase-board__1_-removebg-preview.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/backButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/backButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/brent-cox-lRM-J3q2Z3k-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/brent-cox-lRM-J3q2Z3k-unsplash.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/icon_sw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/icon_sw.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/jake-blucker-tMzCrBkM99Y-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/jake-blucker-tMzCrBkM99Y-unsplash.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/kyle-thacker-cNMgKxev6ak-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/kyle-thacker-cNMgKxev6ak-unsplash.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/title.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/title.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/willian-justen-de-vasconcellos-QTIugFX1Gug-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Imgs/willian-justen-de-vasconcellos-QTIugFX1Gug-unsplash.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scenes/Home.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scenes/Home.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scenes/Setting.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scenes/Setting.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scenes/Timer.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scenes/Timer.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scripts/HomeScreen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scripts/HomeScreen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scripts/SettingScreen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scripts/SettingScreen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scripts/Timer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Assets/Scripts/Timer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/NotificationsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/UserSettings/AndroidLogcatSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lapThree/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.Assembly-CSharp.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.Assembly-CSharp.dir/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.Assembly-CSharp.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.Assembly-CSharp.dir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.Assembly-CSharp.dir/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.quiz01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.quiz01/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.quiz01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/.idea/.idea.quiz01/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Editor/com.unity.mobile.notifications.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Imgs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Imgs/161200-blank-clock-face-4x4-dry-erase-board (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Imgs/161200-blank-clock-face-4x4-dry-erase-board (1).jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Imgs/icon_sw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Imgs/icon_sw.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Imgs/title.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Imgs/title.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Scripts/HandCode.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Assets/Scripts/HandCode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/NotificationsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/UserSettings/AndroidLogcatSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz01/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/14028838115_4b19a8f3cb_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/14028838115_4b19a8f3cb_k.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/3a8901227bcbcce0b89d755ff64a238e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/3a8901227bcbcce0b89d755ff64a238e.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/636116371795811903-tedxlogo.jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/636116371795811903-tedxlogo.jpg.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/TEDxLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/TEDxLogo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/TedxStage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/TedxStage.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/back-logo-png-6-1-Transparent-Images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/back-logo-png-6-1-Transparent-Images.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Assets/img/menu.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treainingProject/UserSettings/EditorUserSettings.asset" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/Code/Code/MainCode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ServerPortSelect.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/ServerPortSelect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MainCode.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1qL04gVGNV4Tff0YB9M2FAElPRc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b158f99e-67e0-488f-a8c2-b0a1b399cf42" name="Default Changelist" comment="" />
+      <created>1616843377417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616843377417</updated>
+      <workItem from="1616843387200" duration="1357000" />
+      <workItem from="1618269788760" duration="2989000" />
+      <workItem from="1618348801925" duration="4667000" />
+      <workItem from="1618431311100" duration="5768000" />
+      <workItem from="1618537364417" duration="1000" />
+      <workItem from="1618607424379" duration="511000" />
+      <workItem from="1618608845916" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
